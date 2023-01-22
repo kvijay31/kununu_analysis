@@ -22,7 +22,12 @@
 
 ## Strategic Proposal: 
 
-<img width="1087" alt="image" src="https://user-images.githubusercontent.com/68467050/213917850-f23884f4-305a-4128-b2bb-f56b545c4ed6.png">
+- <img width="1087" alt="image" src="https://user-images.githubusercontent.com/68467050/213917850-f23884f4-305a-4128-b2bb-f56b545c4ed6.png">
+-  <img width="1085" alt="image" src="https://user-images.githubusercontent.com/68467050/213917890-c51372fc-51b6-4835-a7e4-7e172cf3f8e8.png">
+- <img width="1085" alt="image" src="https://user-images.githubusercontent.com/68467050/213917921-eff1c5e8-2a9d-47c2-8d0a-414eda6efa6c.png">
+
+
+
 
 
 
